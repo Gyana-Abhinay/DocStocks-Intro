@@ -1,0 +1,8 @@
+# Internal / local-only — never publish
+.claude/
+memory/
+
+# OS cruft
+Thumbs.db
+desktop.ini
+.DS_Store
